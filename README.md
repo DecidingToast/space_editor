@@ -1,6 +1,3 @@
-# NOTE
-This is a public fork of the space_editor repository. The game itself is a private submodule for my own use.
-
 # space_editor: The Bevy Prefab Editor
 License: MIT [![codecov](https://codecov.io/gh/rewin123/space_editor/branch/main/graph/badge.svg?token=4VMVTZTN8A)](https://codecov.io/gh//rewin123/space_editor)
 
